@@ -1,3 +1,4 @@
 Funkis
 ======
-Ideas repo for game making tools
+
+Ideas repo for game making tools.
