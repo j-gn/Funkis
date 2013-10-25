@@ -13,3 +13,12 @@ Concept
 * Easy to serialize the correct parts of the game state and save/load/reset/etc
 * Possible to swap out pieces of the engine
 * Good defaults for working with level editing and entity creation
+
+### Things that are nice in a game engine
+* Easy to find and debug errors
+* Good APIs
+* Fast
+* Easy to extend engine capabilities (for example a library for Oculus Rift)
+* Easy to extend editor (for example add a hotkey to do a repetetive task)
+* Nice level editing tools
+* Good tools for working with time
